@@ -9,6 +9,7 @@ CSS for styling and creating a responsive layout.
 
 Our platform offers an easy and intuitive interface for both restaurant managers and customers:
 ![image Alt](https://github.com/Sahithib04/Smart-Restaurant-Management-System/blob/main/Home%20page.jpg?raw=true)
+
 Home
 Welcome Page: A welcoming interface with appealing visuals, showcasing the restaurant’s ambiance and key features.
 Booking System
